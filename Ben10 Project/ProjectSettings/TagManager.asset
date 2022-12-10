@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deathzone
+  - Diamond
+  - Portal
+  - Lava
+  - Thorn
+  - Boss
+  - Elevator
+  - Enemy
+  - Slime
+  - Dragon
+  - Treasure
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Lava
+  - Player
+  - Shoot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGBehind
+    uniqueID: 1939781787
+    locked: 0
+  - name: BG
+    uniqueID: 1488627489
+    locked: 0
+  - name: BG2
+    uniqueID: 4247092549
+    locked: 0
+  - name: BG3
+    uniqueID: 1803604611
+    locked: 0
+  - name: BG4
+    uniqueID: 1948407193
+    locked: 0
+  - name: BG5
+    uniqueID: 1869815725
+    locked: 0
+  - name: TerrainBehind
+    uniqueID: 4253832391
+    locked: 0
+  - name: TerrainBehindBefore
+    uniqueID: 2891282173
+    locked: 0
+  - name: Terrain
+    uniqueID: 2791955767
+    locked: 0
+  - name: Main
+    uniqueID: 968267731
+    locked: 0
+  - name: Player
+    uniqueID: 3052001861
+    locked: 0
+  - name: TerrainBefore
+    uniqueID: 2923152391
+    locked: 0
+  - name: TerrainBeforeBefore
+    uniqueID: 1406922561
+    locked: 0
+  - name: Diamond_Display
+    uniqueID: 2948803605
+    locked: 0
+  - name: Menu
+    uniqueID: 1639540925
+    locked: 0
+  - name: TerrainBeforeBeforeBefore
+    uniqueID: 3057638299
+    locked: 0
